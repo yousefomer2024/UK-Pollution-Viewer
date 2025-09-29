@@ -2,7 +2,6 @@
 
 PollutionViewer is a Java application that helps users explore air pollution data across major UK cities. It provides interactive heatmaps, trend graphs, and detailed statistics for pollutants like **NO2**, **PM2.5**, and **PM10**. Users can filter, compare, and search data by region, year, coordinates, or grid code. The app also integrates live air quality data from the **WAQI API**, making it a practical tool for environmental data exploration.
 
-![Uploading image.png…]()
 
 
 ---
